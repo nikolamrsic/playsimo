@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/playsimo/static/css/main.7e11fc36.css",
+    "main.js": "/playsimo/static/js/main.626df6d2.js",
+    "static/js/787.d3befce1.chunk.js": "/playsimo/static/js/787.d3befce1.chunk.js",
+    "static/media/Elektronomia x Lunaar x Donna Tella - Champions [NCS Release].mp3": "/playsimo/static/media/Elektronomia x Lunaar x Donna Tella - Champions [NCS Release].bd0da76f323da45e4eab.mp3",
+    "static/media/Arcando - In My Head (feat. Britt Lari) [NCS Release].mp3": "/playsimo/static/media/Arcando - In My Head (feat. Britt Lari) [NCS Release].48c44a10730aab742ed2.mp3",
+    "static/media/Cajama - Retrophonic [NCS Release].mp3": "/playsimo/static/media/Cajama - Retrophonic [NCS Release].f9a2fd3c547d79dd392f.mp3",
+    "static/media/main.jpg": "/playsimo/static/media/main.feeb127d991bc448c16b.jpg",
+    "index.html": "/playsimo/index.html",
+    "static/media/logo.svg": "/playsimo/static/media/logo.e686287ab90eb91840b519d5294a4567.svg",
+    "main.7e11fc36.css.map": "/playsimo/static/css/main.7e11fc36.css.map",
+    "main.626df6d2.js.map": "/playsimo/static/js/main.626df6d2.js.map",
+    "787.d3befce1.chunk.js.map": "/playsimo/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e11fc36.css",
+    "static/js/main.626df6d2.js"
+  ]
+}
